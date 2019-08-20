@@ -1,5 +1,5 @@
 #!groovy
-package library;
+package customlib;
 
 import org.jenkinsci.plugins.docker.workflow.*;
 import com.cloudbees.plugins.credentials.CredentialsProvider;
